@@ -9,7 +9,8 @@
 + Dùng nmap tìm port
 
 
-+ Viết kịch bản cho nó để gửi đến sever :  
++ Viết kịch bản cho nó để gửi đến sever :
+
 1.Thiết lập kết nối với dịch vụ từ xa bằng chức năng connect từ thư viện pwn.
   
 2.Sau đó, nó sẽ gửi 54 tải trọng đầu tiên đến dịch vụ từ xa và nhận phản hồi, đồng thời in dữ liệu nhận được.
