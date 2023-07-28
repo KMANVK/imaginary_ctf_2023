@@ -11,7 +11,9 @@
 
 + Viết kịch bản cho nó để gửi đến sever :  
 1.Thiết lập kết nối với dịch vụ từ xa bằng chức năng connect từ thư viện pwn.
+  
 2.Sau đó, nó sẽ gửi 54 tải trọng đầu tiên đến dịch vụ từ xa và nhận phản hồi, đồng thời in dữ liệu nhận được.
 
 3.Tập lệnh nhận được "leak" từ dịch vụ từ xa và tính toán giá trị "offset"
+
 4.Cuối cùng là in flag ra bằng `conn.interactive()` để tương tác với dịch vụ.
