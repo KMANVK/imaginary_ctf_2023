@@ -18,3 +18,5 @@
 3.Tập lệnh nhận được "leak" từ dịch vụ từ xa và tính toán giá trị "offset"
 
 4.Cuối cùng là in flag ra bằng `conn.interactive()` để tương tác với dịch vụ.
+
+![image](https://github.com/KMANVK/imaginary_ctf_2023/assets/94669750/cc93ac8a-0fda-4c62-a1e5-6e5de78d40b1)
